@@ -1,0 +1,24 @@
+.row{
+    background-color: aqua;
+    border: 3px solid black;
+    padding: 5px;
+    margin: 5px;
+}
+
+.dot-border {
+    border: 15px solid black;
+    background-color: beige;
+}
+
+
+.focused {
+    font-size: 2em;
+}
+
+/**
+
+
+When you start typing into the navbar's text input, the description, and only that property, of the currently selected car should be bound to what you are typing in and match it exactly.
+
+
+**/
